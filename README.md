@@ -1,5 +1,5 @@
-post-hook-repo-backup
-=====================
+Post hook repository backup
+===========================
 
 This repository contains two simple WSGI applications that "backup" a remote
 repository that has a POST post-receive hook (e.g., GitHub or BitBucket).
